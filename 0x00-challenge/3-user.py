@@ -14,7 +14,7 @@ class User():
         """
 
    __password = None
-   def __init__(self
+   def __init__(self):
         """
         Initialize a new user:
         - assigned an unique `id`
